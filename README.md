@@ -1,2 +1,3 @@
 # Hello-World
-First Repository
+First Repository.
+This is a new way of thinking. 
